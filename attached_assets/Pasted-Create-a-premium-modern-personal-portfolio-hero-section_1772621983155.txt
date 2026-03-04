@@ -1,0 +1,669 @@
+Create a premium modern personal portfolio hero section for Srikanth Raheja with a clean Dribbble-style UI design.
+
+
+
+Layout
+
+
+
+Two-column landing page hero section.
+
+
+
+Left side: Text content
+
+Right side: Professional portrait image.
+
+
+
+Use a warm beige to amber gradient background with soft glowing particles and subtle dotted patterns behind the portrait.
+
+
+
+The design should feel minimal, elegant, and high-end, similar to modern startup founder portfolios.
+
+
+
+Navigation Bar
+
+
+
+Sticky top navigation with a soft glass effect.
+
+
+
+Left side logo text:
+
+
+
+Srikanth Raheja
+
+
+
+Style the word Raheja in a handwritten script font with orange accent color.
+
+
+
+Navigation links:
+
+
+
+Home
+
+About
+
+Services
+
+Journey
+
+Education
+
+Insights
+
+
+
+Right side CTA button:
+
+
+
+Let's Connect →
+
+
+
+Rounded dark button.
+
+
+
+Hero Section
+
+
+
+Left side content.
+
+
+
+Large elegant serif headline:
+
+
+
+Srikanth Raheja
+
+
+
+Subtitle:
+
+
+
+Entrepreneur | Brand Strategist | Marketing Leader
+
+
+
+Make Brand Strategist and Marketing Leader slightly highlighted in orange.
+
+
+
+Short description text:
+
+
+
+Founder & CEO building scalable brands through Strategy, Creative Operations & Data-Driven Marketing.
+
+
+
+Below that add a small paragraph:
+
+
+
+Srikanth Raheja is an entrepreneur and marketing strategist specializing in brand growth, digital marketing, and scalable creative operations. As the Founder & CEO of Bee Echoo, he helps businesses build powerful brands, optimize content production, and achieve measurable market impact through integrated marketing strategies.
+
+
+
+Buttons
+
+
+
+Two call-to-action buttons under the text:
+
+
+
+Primary button (dark):
+
+
+
+View My Work →
+
+
+
+Secondary button (light outline):
+
+
+
+Book a Meeting
+
+
+
+Add a small calendar icon in the button.
+
+
+
+Buttons should have rounded corners and soft shadows.
+
+
+
+Hero Image
+
+
+
+Right side of the hero section.
+
+
+
+Use a professional portrait of a South Asian entrepreneur wearing a beige blazer, light shirt, and glasses.(image 1)
+
+
+
+Studio lighting, neutral background.
+
+
+
+Apply:
+
+
+
+• soft glow behind portrait
+
+• dotted abstract design elements
+
+• subtle light particles
+
+• soft shadow under image
+
+
+
+Bottom Glass Card
+
+
+
+Below the hero section place a glassmorphism card panel.
+
+
+
+Rounded edges with soft blur background.
+
+
+
+Inside the card:
+
+
+
+Left side title:
+
+
+
+Professional Journey
+
+
+
+Icons + contact information:
+
+
+
+Email icon
+
+hi@srikanthraheja.com
+
+
+
+Location icon
+
+Hyderabad, India
+
+
+
+Right side section:
+
+
+
+Let's Work Together
+
+
+
+Small social icons.
+
+
+
+CTA button:
+
+
+
+Get In Touch →
+
+
+
+Orange gradient button.
+
+
+
+Design Style
+
+
+
+Use:
+
+
+
+Minimal UI
+
+Soft shadows
+
+Rounded corners
+
+Glassmorphism panels
+
+Elegant typography
+
+Warm startup color palette.
+
+
+
+Color palette:
+
+
+
+Background
+
+#F7F3EF
+
+
+
+Accent
+
+#F39C45
+
+
+
+Text
+
+#1A1A1A
+
+
+
+Buttons
+
+#1C1C1C
+
+
+
+UI Quality
+
+
+
+Dribbble style website UI mockup
+
+Modern startup portfolio design
+
+Clean whitespace
+
+Soft lighting
+
+Professional founder website
+
+
+
+Ultra clean Figma-style interface design
+
+
+
+Section 1 — About Srikanth
+
+Two column layout.
+
+Left side
+
+Heading
+
+About Srikanth
+
+Description
+
+Srikanth Raheja is a business strategist, entrepreneur, and brand growth consultant helping organizations transform their marketing into a scalable growth engine. With deep expertise in digital marketing, business strategy, and brand positioning, he works with companies to accelerate growth through integrated marketing strategies.
+
+Buttons
+
+View My Work
+
+Book a Meeting
+
+Right side
+
+Use Image 2
+
+Image style
+
+corporate networking event
+
+modern office lighting
+
+business conversation
+
+soft blurred background
+
+Rounded corners 20px
+
+Section 2 — Impact & Achievements
+
+Centered heading
+
+Impact & Achievements
+
+Below create 4 statistic cards
+
+Each card contains
+
+icon
+
+large number
+
+short description
+
+Card 1
+
+Rocket icon
+
+8+
+
+Years in Marketing & Business Strategy
+
+Card 2
+
+Target icon
+
+30+
+
+Brand Strategy Projects
+
+Card 3
+
+Megaphone icon
+
+100+
+
+Marketing Campaigns Managed
+
+Card 4
+
+Handshake icon
+
+15+
+
+Strategic Partnerships
+
+Card style
+
+white background
+
+soft shadow
+
+rounded corners
+
+hover lift animation
+
+Section 3 — Professional Journey
+
+Two column layout
+
+Vertical timeline design
+
+Timeline Items
+
+Founder & CEO
+
+Bee Echoo
+
+2015 – Present
+
+Leading brand strategy and marketing transformation for startups and enterprises, helping organizations scale through digital innovation and marketing systems.
+
+Founder & CEO
+
+ARA Incorp
+
+2015 – Present
+
+Providing consulting and strategic growth advisory services focusing on operational efficiency and brand positioning.
+
+Visual UI / Product Design Leadership
+
+Working on design thinking, brand identity, digital product experiences, and marketing innovation across organizations.
+
+Timeline design
+
+vertical line
+
+circle markers
+
+clean spacing
+
+Style
+
+startup meeting
+
+modern office
+
+business professionals talking
+
+natural lighting
+
+Rounded corners
+
+soft shadow
+
+Section 4 — Event Highlights
+
+Two column layout.
+
+Left side
+
+Use Image 3
+
+Image style
+
+startup panel discussion
+
+entrepreneurs speaking on stage
+
+innovation center environment
+
+professional networking event
+
+Rounded corners 20px
+
+Right side
+
+Heading
+
+Event Highlights
+
+Subheading
+
+CIE IIIT Hyderabad Founder Conversation
+
+Summary text
+
+Srikanth Raheja moderated a candid discussion at CIE IIIT Hyderabad with industry leaders Sai Chaitanya Kokku (Director, Draper Startup House Hyderabad) and Sheetal Patil (CEO, Cream Stone Ice Cream Concepts). The session explored what separates fast-scaling startups from stable businesses and the strategic decisions founders must make to transition between the two.
+
+Key Insights
+
+• Startups are experiments, while businesses are repeatable systems built on validated unit economics.
+
+• Incubators and accelerators help founders convert early hypotheses into scalable processes.
+
+• For retail and consumer brands, operational excellence, supplier relationships, and margin architecture matter more than aggressive acquisition.
+
+• Early teams should hire adaptable generalists before bringing in specialists after product–market fit.
+
+• Fundraising should solve a specific bottleneck rather than become the primary goal.
+
+Closing message
+
+The session concluded with a call for founders to focus on the right growth levers—traction, operations, hiring, and funding—and continue building stronger entrepreneurial ecosystems through open conversations.
+
+Button
+
+Read More
+
+Section 5 — Testimonial Slider
+
+Background color
+
+#E8DED6
+
+Create testimonial slider that automatically changes every 3 seconds.
+
+Each testimonial card includes
+
+quote icon
+
+testimonial text
+
+author name
+
+company
+
+Testimonials
+
+1
+
+"Srikanth's strategic approach transformed our brand positioning completely."
+
+David Chen
+
+CEO, NexaFlow
+
+2
+
+"A rare talent who understands both the visual aesthetics and business logic."
+
+Sarah Jenkins
+
+Marketing Director, FinUp
+
+3
+
+"His ability to scale operations through digital strategy is unmatched."
+
+James Wilson
+
+Founder, ARA Solutions
+
+4
+
+"Delivered a design system aligned perfectly with our ROI goals."
+
+Elena Rodriguez
+
+Product Lead, TechVibe
+
+5
+
+"Exceptional leadership and visionary thinking."
+
+Michael Bloom
+
+COO, Global Brands
+
+Slider animation
+
+fade transition
+
+auto change every 3 seconds
+
+Section 6 — Contact Section
+
+Two column layout.
+
+Left side
+
+Heading
+
+Let's Build Something Great
+
+Email
+
+hello@srikanthraheja.com
+
+Social links
+
+LinkedIn
+
+Twitter
+
+Dribbble
+
+Right side
+
+Contact form card
+
+Fields
+
+Full Name
+
+Email Address
+
+Message
+
+Button
+
+Send Message
+
+Card style
+
+white background
+
+rounded corners
+
+soft shadow
+
+Footer
+
+Centered footer
+
+© 2026 Srikanth Raheja. All rights reserved.
+
+Minimal typography.
+
+Animations
+
+Add subtle animations
+
+Fade-up animation on scroll
+
+Cards lift on hover
+
+Buttons lift on hover
+
+Images slight zoom on hover
+
+Testimonial slider auto-play every 3 seconds
+
+
+
+use Color Palette from the section 1 about section
+
+Background: #F6EFEA
+
+
+
+Card Background: #FFFFFF
+
+
+
+Accent: #E8DED6
+
+
+
+Primary Text: #1A1A1A
+
+
+
+Secondary Text: #6B6B6B
