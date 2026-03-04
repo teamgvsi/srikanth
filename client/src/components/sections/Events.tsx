@@ -63,12 +63,7 @@ export function Events() {
               </p>
             </div>
             
-            <a 
-              href="#" 
-              className="inline-flex items-center justify-center rounded-full bg-secondary/5 hover:bg-secondary/10 text-secondary font-medium px-6 py-3 transition-colors"
-            >
-              Watch Recording <ArrowUpRight className="ml-2 w-4 h-4" />
-            </a>
+             
           </motion.div>
 
         </div>

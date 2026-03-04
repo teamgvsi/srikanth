@@ -9,9 +9,9 @@ export function Footer() {
           Entrepreneur, Brand Strategist & Marketing Leader building scalable brands through data-driven creativity.
         </p>
         <div className="flex space-x-6 mt-4">
-          <a href="#" className="text-muted-foreground hover:text-primary transition-colors">LinkedIn</a>
-          <a href="#" className="text-muted-foreground hover:text-primary transition-colors">Twitter</a>
-          <a href="#" className="text-muted-foreground hover:text-primary transition-colors">Instagram</a>
+          <a href="https://www.linkedin.com/in/srikanthraheja/" className="text-muted-foreground hover:text-primary transition-colors">LinkedIn</a>
+          
+          <a href="https://www.instagram.com/raheja_sri?igsh=MWl4ZWQ1cDRrcWczNw==" className="text-muted-foreground hover:text-primary transition-colors">Instagram</a>
         </div>
         <p className="text-xs text-muted-foreground/60 pt-8">
           © {new Date().getFullYear()} Srikanth Raheja. All rights reserved.

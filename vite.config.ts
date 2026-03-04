@@ -35,6 +35,11 @@ export default defineConfig({
     fs: {
       strict: true,
       deny: ["**/.*"],
+      
     },
+    allowedHosts:[
+      'unpraiseful-dede-convocational.ngrok-free.dev',
+    ]
+
   },
 });
