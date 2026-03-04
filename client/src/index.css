@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 
 @tailwind base;
 @tailwind components;
@@ -6,16 +6,15 @@
 
 @layer base {
   :root {
-    --font-sans: 'DM Sans', sans-serif;
-    --font-serif: 'Playfair Display', serif;
-    --font-script: 'Caveat', cursive;
+    --font-sans: 'Inter', sans-serif;
+    --font-serif: 'DM Serif Display', serif;
 
-    /* Warm Beige Background */
-    --background: 30 29% 95%; 
+    /* Luxury Beige Background */
+    --background: 25 35% 94%; 
     --foreground: 0 0% 10%;
 
-    /* Orange Accent */
-    --primary: 30 89% 61%;
+    /* Accent color #D57B2E */
+    --primary: 27 65% 51%;
     --primary-foreground: 0 0% 100%;
 
     /* Dark Button / Secondary */
@@ -28,20 +27,20 @@
     --popover: 0 0% 100%;
     --popover-foreground: 0 0% 10%;
 
-    --muted: 30 15% 90%;
-    --muted-foreground: 0 0% 40%;
+    --muted: 25 20% 90%;
+    --muted-foreground: 0 0% 42%;
 
-    --accent: 30 89% 61%;
+    --accent: 27 65% 51%;
     --accent-foreground: 0 0% 100%;
 
     --destructive: 0 84% 60%;
     --destructive-foreground: 0 0% 100%;
 
-    --border: 30 10% 85%;
-    --input: 30 10% 85%;
-    --ring: 30 89% 61%;
+    --border: 25 20% 85%;
+    --input: 25 20% 85%;
+    --ring: 27 65% 51%;
 
-    --radius: 1rem;
+    --radius: 1.25rem;
   }
 
   .dark {

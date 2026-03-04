@@ -1,0 +1,243 @@
+Create a modern luxury personal brand hero section for Srikanth Raheja – Entrepreneur & Brand Strategist.
+
+The design should look like a high-end Forbes / Apple-style personal website with warm beige gradients, elegant typography, and a professional portrait layout.
+
+Use a two-column layout with text content on the left and portrait image on the right.
+
+Global Design Style
+
+Color Palette
+
+Background gradient
+
+#F6EFEA → #F1E4DA → #EED8C7
+
+Accent color
+
+#D57B2E
+
+Primary text
+
+#1A1A1A
+
+Secondary text
+
+#6B6B6B
+
+Typography
+
+Headings
+
+DM Serif Display
+
+Body text
+
+Inter
+
+Container width
+
+1200px centered
+
+Spacing
+
+100px vertical padding
+
+Buttons
+
+Rounded pill buttons with soft shadow.
+
+Navigation Bar
+
+Top navigation bar with transparent background.
+
+Left side
+
+Logo text
+
+Srikanth Raheja
+
+Use elegant serif style where Raheja is highlighted in accent color (#D57B2E).
+
+Center navigation links
+
+Home
+About
+Services
+Journey
+Education
+Insights
+
+Right side
+
+CTA Button
+
+Let's Connect →
+
+Button style
+
+Dark gradient background
+Rounded pill
+Hover glow animation.
+
+Hero Section Layout
+
+Two column layout
+
+Left column width 55%
+
+Right column width 45%
+
+Left Side Content
+
+Main Heading
+
+Srikanth Raheja
+
+Very large typography
+
+font-size: 64px
+
+Subheading
+
+Entrepreneur | Brand Strategist | Marketing Leader
+
+Highlight Brand Strategist with accent color.
+
+Description
+
+Founder & CEO building scalable brands through Strategy, Creative Operations & Data-Driven Marketing.
+
+Second paragraph
+
+Srikanth Raheja is an entrepreneur and marketing strategist specializing in brand growth, digital marketing, and scalable creative operations. As the Founder & CEO of Bee Echoo, he helps businesses build powerful brands, optimize content production, and achieve measurable market impact through integrated marketing strategies.
+
+Buttons
+
+Two CTA buttons
+
+Primary Button
+
+View My Work →
+
+Style
+
+Dark background
+White text
+Rounded pill
+
+Secondary Button
+
+Book a Meeting
+
+Style
+
+Light background
+Subtle border
+Calendar icon on the left.
+
+Buttons spacing
+
+gap: 16px
+margin-top: 30px
+Right Side Image
+
+Use a professional portrait image of Srikanth Raheja.
+
+Image style
+
+corporate portrait
+beige background
+business blazer
+professional lighting
+studio photography
+slight glow background particles
+
+Image design
+
+Rounded corners
+
+border-radius: 20px
+
+Add subtle glow gradient behind image.
+
+Background effect
+
+soft gold particle glow
+Bottom Glass Card Section
+
+Below hero create a glassmorphism information card.
+
+Style
+
+Background
+
+rgba(255,255,255,0.55)
+
+Blur
+
+backdrop-filter: blur(12px)
+
+Rounded corners
+
+border-radius: 20px
+
+Soft border
+
+1px solid rgba(255,255,255,0.4)
+
+Shadow
+
+0 10px 40px rgba(0,0,0,0.08)
+Glass Card Layout
+
+Two columns inside card.
+
+Left side
+
+Heading
+
+Professional Journey
+
+Details
+
+Email
+
+hi@srikanthraheja.com
+
+Location
+
+Hyderabad, India
+
+Add icons for email and location.
+
+Right side
+
+Heading
+
+Let's Work Together
+
+Contact location
+
+Hyderabad, India
+
+Add social icons
+
+LinkedIn
+Twitter
+Instagram
+
+CTA Button
+
+Get In Touch →
+
+Orange accent button.
+
+Animations
+
+Add subtle animations
+
+Hero text fade-up animation
+Buttons lift on hover
+Portrait image slight zoom hover
+Navigation hover underline animation
+Glass card fade-in animation.

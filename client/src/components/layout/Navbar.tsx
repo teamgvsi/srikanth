@@ -43,8 +43,8 @@ export function Navbar() {
         >
           {/* Logo */}
           <div className="flex-shrink-0 cursor-pointer" onClick={() => scrollTo("#home")}>
-            <span className="font-serif text-xl font-bold text-foreground">
-              Srikanth <span className="font-script text-primary text-3xl font-normal tracking-wide relative top-1">Raheja</span>
+            <span className="font-serif text-2xl font-bold text-foreground">
+              Srikanth <span className="text-primary">Raheja</span>
             </span>
           </div>
 
